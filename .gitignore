@@ -1,0 +1,4 @@
+.venv
+.env
+results.pkl
+__pycache__
